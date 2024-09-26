@@ -1,0 +1,6 @@
+1,É assim que acaba,Collen Hoover,Romance
+2,Biblioteca da Meia-Noite,Matt Haig,Ficção Científica
+3,Onde estão as flores,Ilko Minev,Romance
+4,Por Lugares Incríveis,Jenifer Niven,Romance
+5,Princesa das Cinzar,Laura Sebastian,Fantasia
+6,Até o Verão Terminar,Collen Hoover,Ficção/Romance
